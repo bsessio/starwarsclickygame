@@ -1,0 +1,12 @@
+/* Defaults everything to border-box box-sizing */
+* {
+  box-sizing: border-box;
+}
+
+/* Defines font family here, too, because I am soaking wet. Also adds some dimensions and stuff. */
+html, body, #root {
+  font-family: 'ZCOOL QingKe HuangYou', Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}

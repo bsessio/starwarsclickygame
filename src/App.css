@@ -1,0 +1,100 @@
+/* ========================= */
+/* Standard elements */
+/* ========================= */
+
+/* Chooses fonts, background elements, sets fonts to white */
+body {
+  font-family: 'ZCOOL QingKe HuangYou', Arial, Helvetica, sans-serif;
+  background-color: black;
+  font-size: 2vw;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 3px black;
+  text-shadow: 1px 1px 3px black;
+  background-image: url(https://logos-download.com/wp-content/uploads/2016/09/Star_Wars_logo-1.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position-y: 50%;
+}
+
+/* Restyles the buttons, reinforces the font */
+button {
+  width: 10vw;
+  height: 5vw;
+  font-size: 2vw;
+  font-weight: bolder;
+  background-color: gold;
+  font-family: 'ZCOOL QingKe HuangYou', Arial, Helvetica, sans-serif;
+}
+
+/* ========================= */
+/* Multiple Elements */
+/* ========================= */
+
+/* Sets basically all the app elemnts to identical widths and margins and borders et. al. */
+.score, .title, .level, .game {
+  width: 18vw;
+  text-align: center;
+  margin: 10px;
+  position: fixed;
+  border: 2px gold solid;
+  padding: 5px;
+}
+
+/* Puts score and level boxes near the bottom */
+.score, .level {
+  bottom: 0vw;
+}
+
+/* Puts title and game backgrounds on them */
+.title, .game {
+  background: rgba(104, 104, 104, 0.7);
+}
+
+/* Puts the buttons in the middle of the screen */
+.levelDown, .levelUp {
+  position: fixed;
+  top: 49%;
+}
+
+/* ========================= */
+/* Custom Elements */
+/* ========================= */
+
+/* Adds background, left-aligns  */
+.score {
+  background: rgba(0, 170, 0, .70);
+  left: 5%;
+}
+
+/* Adds background, right-aligns */
+.level {
+  right: 5%;
+  background: rgba(0, 132, 181, .70);
+}
+
+/* Adds background, left-aligns */
+.title {
+  color: rgb(255, 255, 255);
+  left: 5%;
+}
+
+/* Adds background, right-aligns */
+.game {
+  right: 5%;
+  text-align: left;
+}
+
+/* Changes modal background */
+.modalStyle {
+  background-color: black;
+}
+
+/* Left-aligns */
+.levelDown {
+  left: 10%;
+}
+
+/* Right-aligns */
+.levelUp {
+right: 10%;
+}

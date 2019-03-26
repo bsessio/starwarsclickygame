@@ -1,0 +1,18 @@
+/* Makes the card have a thin gold border, and push together in flexbox. */
+.card {
+  border: 0.1rem solid gold;
+  position: relative;
+  text-align: left;
+}
+
+/* Defines image height */
+.card > .img-container {
+  height: 150px;
+  overflow: hidden;
+  text-align: center;
+}
+
+/* Defines image width */
+.card > .img-container > img {
+  width: 150px;
+}
