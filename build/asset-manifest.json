@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.0dfc61ca.chunk.css",
-  "main.js": "/static/js/main.1e7cd610.chunk.js",
-  "main.js.map": "/static/js/main.1e7cd610.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.8771597b.chunk.js": "/static/js/2.8771597b.chunk.js",
-  "static/js/2.8771597b.chunk.js.map": "/static/js/2.8771597b.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.ade26f7518b8b0a37d6f5681843267d1.js": "/precache-manifest.ade26f7518b8b0a37d6f5681843267d1.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.0dfc61ca.chunk.css.map": "/static/css/main.0dfc61ca.chunk.css.map"
+  "main.css": "/starwarsclickygame/static/css/main.891643f0.chunk.css",
+  "main.js": "/starwarsclickygame/static/js/main.a1554132.chunk.js",
+  "main.js.map": "/starwarsclickygame/static/js/main.a1554132.chunk.js.map",
+  "runtime~main.js": "/starwarsclickygame/static/js/runtime~main.69194d1c.js",
+  "runtime~main.js.map": "/starwarsclickygame/static/js/runtime~main.69194d1c.js.map",
+  "static/js/2.8771597b.chunk.js": "/starwarsclickygame/static/js/2.8771597b.chunk.js",
+  "static/js/2.8771597b.chunk.js.map": "/starwarsclickygame/static/js/2.8771597b.chunk.js.map",
+  "index.html": "/starwarsclickygame/index.html",
+  "precache-manifest.b9eab89e173e2e564641731209768b5b.js": "/starwarsclickygame/precache-manifest.b9eab89e173e2e564641731209768b5b.js",
+  "service-worker.js": "/starwarsclickygame/service-worker.js",
+  "static/css/main.891643f0.chunk.css.map": "/starwarsclickygame/static/css/main.891643f0.chunk.css.map"
 }

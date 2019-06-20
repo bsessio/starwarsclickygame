@@ -1,6 +1,5 @@
 /* Sets the height, width, and flexboses all of the cards. */
 .wrapper {
-  height: 100%;
   width: 40%;
   margin: 0 auto;
   display: flex;

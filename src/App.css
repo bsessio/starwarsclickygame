@@ -11,6 +11,7 @@ body {
   text-shadow: 2px 2px 3px black;
   text-shadow: 1px 1px 3px black;
   background-image: url(https://logos-download.com/wp-content/uploads/2016/09/Star_Wars_logo-1.png);
+  background-attachment: fixed;
   background-size: 100%;
   background-repeat: no-repeat;
   background-position-y: 50%;
