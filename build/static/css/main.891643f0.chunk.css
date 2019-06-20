@@ -23,6 +23,7 @@
   -webkit-justify-content: center;
   justify-content: center;
   overflow: auto;
+  position: relative;
 }
 body {
   background-color: #000;
