@@ -8,5 +8,11 @@ html, body, #root {
   font-family: 'ZCOOL QingKe HuangYou', Arial, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
-  height: 100%;
+  position: relative;
 }
+
+@media screen and (min-width: 1149px) {
+	#root, html, body {
+	height: 100%;
+	}
+} 
