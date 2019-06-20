@@ -107,4 +107,19 @@ html {
   margin: 0;
   height: 100%;
 }
+
+@media screen and (min-width: 1149px) {
+	#root, html, body {
+	height: 100%;
+	}
+} 
 /*# sourceMappingURL=main.891643f0.chunk.css.map */
+@media screen and (min-width: 1149px) {
+	.wrapper {
+		margin: 0;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+} 
